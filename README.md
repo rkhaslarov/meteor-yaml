@@ -3,17 +3,17 @@ rkhaslarov:yaml
 
 YAML parser and serializer for MeteorJS. Converts YAML files to JSON and JS objects to YAML.
 
-#Installation
+# Installation
 
 ```
 meteor add rkhaslarov:yaml
 ```
 
-#Usage
+# Usage
 
-##Quick examples
+## Quick examples
 
-###Convert YAML file to JSON
+### Convert YAML file to JSON
 
 ```js
 var fs = Npm.require('fs');
@@ -26,7 +26,7 @@ try {
 }
 ```
 
-###Convert JS object to YAML
+### Convert JS object to YAML
 
 ```js
 var data = {
