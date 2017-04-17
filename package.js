@@ -1,7 +1,8 @@
 Package.describe({
 	name: 'rkhaslarov:yaml',
 	version: '0.0.1',
-	summary: 'A YAML parser and serializer.'
+	summary: 'A YAML parser and serializer.',
+ 	git: 'https://github.com/rkhaslarov/meteor-yaml'
 });
 
 Npm.depends({
